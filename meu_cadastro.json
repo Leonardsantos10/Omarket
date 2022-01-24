@@ -1,0 +1,14 @@
+[
+    {
+        "Nome": "Leonardo",
+        "CPF": 123456789.0,
+        "Endereco": "Rua Otavio Borim",
+        "Moeda": 0
+    },
+    {
+        "Nome": "Jo\u00e3o",
+        "CPF": 1234132.0,
+        "Endereco": "Rua monte claro",
+        "Moeda": 10
+    }
+]

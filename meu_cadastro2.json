@@ -1,0 +1,12 @@
+[
+    {
+        "Nome": "Jose",
+        "CPF": 123451234,
+        "Endereco": "Rua Botafogo"
+    },
+    {
+        "Nome": "Elias",
+        "CPF/CNPJ": "1234213",
+        "Endereco": "Rua monte claro"
+    }
+]
